@@ -199,106 +199,306 @@
     <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
     <Content Include="bin\Debug\EntityFramework.xml" />
     <Content Include="bin\Debug\ru\EntityFramework.resources.dll" />
-    <Content Include="bin\Debug\Клиенты\1.jpg" />
-    <Content Include="bin\Debug\Клиенты\10.jpg" />
-    <Content Include="bin\Debug\Клиенты\11.jpg" />
-    <Content Include="bin\Debug\Клиенты\12.jpg" />
-    <Content Include="bin\Debug\Клиенты\13.jpg" />
-    <Content Include="bin\Debug\Клиенты\14.jpg" />
-    <Content Include="bin\Debug\Клиенты\15.jpg" />
-    <Content Include="bin\Debug\Клиенты\16.jpg" />
-    <Content Include="bin\Debug\Клиенты\17.jpg" />
-    <Content Include="bin\Debug\Клиенты\18.jpg" />
-    <Content Include="bin\Debug\Клиенты\19.jpg" />
-    <Content Include="bin\Debug\Клиенты\2.jpg" />
-    <Content Include="bin\Debug\Клиенты\20.jpg" />
-    <Content Include="bin\Debug\Клиенты\21.jpg" />
-    <Content Include="bin\Debug\Клиенты\22.jpg" />
-    <Content Include="bin\Debug\Клиенты\23.jpg" />
-    <Content Include="bin\Debug\Клиенты\24.jpg" />
-    <Content Include="bin\Debug\Клиенты\25.jpg" />
-    <Content Include="bin\Debug\Клиенты\26.jpg" />
-    <Content Include="bin\Debug\Клиенты\27.jpg" />
-    <Content Include="bin\Debug\Клиенты\28.jpg" />
-    <Content Include="bin\Debug\Клиенты\29.jpg" />
-    <Content Include="bin\Debug\Клиенты\3.jpg" />
-    <Content Include="bin\Debug\Клиенты\30.jpg" />
-    <Content Include="bin\Debug\Клиенты\31.jpg" />
-    <Content Include="bin\Debug\Клиенты\32.jpg" />
-    <Content Include="bin\Debug\Клиенты\33.jpg" />
-    <Content Include="bin\Debug\Клиенты\34.jpg" />
-    <Content Include="bin\Debug\Клиенты\35.jpg" />
-    <Content Include="bin\Debug\Клиенты\36.jpg" />
-    <Content Include="bin\Debug\Клиенты\37.jpg" />
-    <Content Include="bin\Debug\Клиенты\38.jpg" />
-    <Content Include="bin\Debug\Клиенты\39.jpg" />
-    <Content Include="bin\Debug\Клиенты\4.jpg" />
-    <Content Include="bin\Debug\Клиенты\40.jpg" />
-    <Content Include="bin\Debug\Клиенты\41.jpg" />
-    <Content Include="bin\Debug\Клиенты\42.jpg" />
-    <Content Include="bin\Debug\Клиенты\43.jpg" />
-    <Content Include="bin\Debug\Клиенты\44.jpg" />
-    <Content Include="bin\Debug\Клиенты\47.jpg" />
-    <Content Include="bin\Debug\Клиенты\48.jpg" />
-    <Content Include="bin\Debug\Клиенты\5.jpg" />
-    <Content Include="bin\Debug\Клиенты\6.jpg" />
-    <Content Include="bin\Debug\Клиенты\7.jpg" />
-    <Content Include="bin\Debug\Клиенты\8.jpg" />
-    <Content Include="bin\Debug\Клиенты\9.jpg" />
-    <Content Include="bin\Debug\Клиенты\m1.jpg" />
-    <Content Include="bin\Debug\Клиенты\m10.jpg" />
-    <Content Include="bin\Debug\Клиенты\m11.jpg" />
-    <Content Include="bin\Debug\Клиенты\m12.jpg" />
-    <Content Include="bin\Debug\Клиенты\m13.jpg" />
-    <Content Include="bin\Debug\Клиенты\m14.jpg" />
-    <Content Include="bin\Debug\Клиенты\m15.jpg" />
-    <Content Include="bin\Debug\Клиенты\m16.jpg" />
-    <Content Include="bin\Debug\Клиенты\m17.jpg" />
-    <Content Include="bin\Debug\Клиенты\m18.jpg" />
-    <Content Include="bin\Debug\Клиенты\m19.jpg" />
-    <Content Include="bin\Debug\Клиенты\m2.jpg" />
-    <Content Include="bin\Debug\Клиенты\m20.jpg" />
-    <Content Include="bin\Debug\Клиенты\m21.jpg" />
-    <Content Include="bin\Debug\Клиенты\m22.jpg" />
-    <Content Include="bin\Debug\Клиенты\m23.jpg" />
-    <Content Include="bin\Debug\Клиенты\m24.jpg" />
-    <Content Include="bin\Debug\Клиенты\m25.jpg" />
-    <Content Include="bin\Debug\Клиенты\m26.jpg" />
-    <Content Include="bin\Debug\Клиенты\m27.jpg" />
-    <Content Include="bin\Debug\Клиенты\m28.jpg" />
-    <Content Include="bin\Debug\Клиенты\m29.jpg" />
-    <Content Include="bin\Debug\Клиенты\m3.jpg" />
-    <Content Include="bin\Debug\Клиенты\m30.jpg" />
-    <Content Include="bin\Debug\Клиенты\m31.jpg" />
-    <Content Include="bin\Debug\Клиенты\m32.jpg" />
-    <Content Include="bin\Debug\Клиенты\m33.jpg" />
-    <Content Include="bin\Debug\Клиенты\m34.jpg" />
-    <Content Include="bin\Debug\Клиенты\m35.jpg" />
-    <Content Include="bin\Debug\Клиенты\m36.jpg" />
-    <Content Include="bin\Debug\Клиенты\m37.jpg" />
-    <Content Include="bin\Debug\Клиенты\m38.jpg" />
-    <Content Include="bin\Debug\Клиенты\m39.jpg" />
-    <Content Include="bin\Debug\Клиенты\m4.jpg" />
-    <Content Include="bin\Debug\Клиенты\m40.jpg" />
-    <Content Include="bin\Debug\Клиенты\m41.jpg" />
-    <Content Include="bin\Debug\Клиенты\m42.jpg" />
-    <Content Include="bin\Debug\Клиенты\m43.jpg" />
-    <Content Include="bin\Debug\Клиенты\m44.jpg" />
-    <Content Include="bin\Debug\Клиенты\m45.jpg" />
-    <Content Include="bin\Debug\Клиенты\m46.jpg" />
-    <Content Include="bin\Debug\Клиенты\m47.jpg" />
-    <Content Include="bin\Debug\Клиенты\m48.jpg" />
-    <Content Include="bin\Debug\Клиенты\m49.jpg" />
-    <Content Include="bin\Debug\Клиенты\m5.jpg" />
-    <Content Include="bin\Debug\Клиенты\m50.jpg" />
-    <Content Include="bin\Debug\Клиенты\m6.jpg" />
-    <Content Include="bin\Debug\Клиенты\m7.jpg" />
-    <Content Include="bin\Debug\Клиенты\m8.jpg" />
-    <Content Include="bin\Debug\Клиенты\m9.jpg" />
-    <Content Include="bin\Debug\Клиенты\m96.jpg" />
-    <Content Include="bin\Debug\Клиенты\m97.jpg" />
-    <Content Include="bin\Debug\Клиенты\m98.jpg" />
-    <Content Include="bin\Debug\Клиенты\m99.jpg" />
+    <Content Include="bin\Debug\Клиенты\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\10.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\11.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\12.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\13.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\14.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\15.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\16.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\17.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\18.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\19.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\20.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\21.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\22.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\23.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\24.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\25.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\26.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\27.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\28.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\29.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\30.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\31.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\32.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\33.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\34.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\35.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\36.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\37.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\38.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\39.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\40.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\41.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\42.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\43.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\44.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\47.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\48.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\5.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\6.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\7.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\8.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\9.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m10.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m11.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m12.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m13.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m14.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m15.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m16.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m17.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m18.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m19.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m20.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m21.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m22.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m23.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m24.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m25.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m26.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m27.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m28.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m29.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m30.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m31.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m32.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m33.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m34.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m35.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m36.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m37.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m38.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m39.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m40.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m41.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m42.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m43.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m44.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m45.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m46.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m47.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m48.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m49.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m5.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m50.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m6.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m7.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m8.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m9.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m96.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m97.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m98.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Клиенты\m99.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Model\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Model1.Context.cs</LastGenOutput>
