@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8db7184bd2d842a0ba5ba5290a253ac5" Name="Diagram1">
+        <EntityTypeShape EntityType="DemSkaredinModel.Client" Width="1.5" PointX="0.75" PointY="10.5" />
+        <EntityTypeShape EntityType="DemSkaredinModel.ClientService" Width="1.5" PointX="3" PointY="9.5" />
+        <EntityTypeShape EntityType="DemSkaredinModel.DocumentByService" Width="1.5" PointX="5.25" PointY="9.875" />
+        <EntityTypeShape EntityType="DemSkaredinModel.Gender" Width="1.5" PointX="1.5" PointY="15.75" />
+        <EntityTypeShape EntityType="DemSkaredinModel.Manufacturer" Width="1.5" PointX="0.75" PointY="2.625" />
+        <EntityTypeShape EntityType="DemSkaredinModel.Product" Width="1.5" PointX="3" PointY="1.875" />
+        <EntityTypeShape EntityType="DemSkaredinModel.ProductPhoto" Width="1.5" PointX="5.25" PointY="5.75" />
+        <EntityTypeShape EntityType="DemSkaredinModel.ProductSale" Width="1.5" PointX="5.25" PointY="2.375" />
+        <EntityTypeShape EntityType="DemSkaredinModel.Service" Width="1.5" PointX="0.75" PointY="7" />
+        <EntityTypeShape EntityType="DemSkaredinModel.ServicePhoto" Width="1.5" PointX="3" PointY="18.5" />
+        <EntityTypeShape EntityType="DemSkaredinModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="0.75" />
+        <EntityTypeShape EntityType="DemSkaredinModel.Tag" Width="1.5" PointX="3" PointY="6.625" />
+        <AssociationConnector Association="DemSkaredinModel.FK_Client_Gender" />
+        <AssociationConnector Association="DemSkaredinModel.FK_ClientService_Client" />
+        <AssociationConnector Association="DemSkaredinModel.FK_ClientService_Service" />
+        <AssociationConnector Association="DemSkaredinModel.FK_DocumentByService_ClientService" />
+        <AssociationConnector Association="DemSkaredinModel.FK_ProductSale_ClientService" />
+        <AssociationConnector Association="DemSkaredinModel.FK_Product_Manufacturer" />
+        <AssociationConnector Association="DemSkaredinModel.FK_ProductPhoto_Product" />
+        <AssociationConnector Association="DemSkaredinModel.FK_ProductSale_Product" />
+        <AssociationConnector Association="DemSkaredinModel.FK_ServicePhoto_Service" />
+        <AssociationConnector Association="DemSkaredinModel.AttachedProduct" />
+        <AssociationConnector Association="DemSkaredinModel.TagOfClient" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
